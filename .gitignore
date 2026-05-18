@@ -1,0 +1,23 @@
+# Sensitive data
+credentials.json
+token.json
+.env
+*.pyc
+__pycache__/
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated files
+photos/
+*.log
+
+# Secrets
+UIPATH_SECRET
+TELEGRAM_TOKEN
+TELEGRAM_CHAT_ID
